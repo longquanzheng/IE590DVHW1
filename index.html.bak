@@ -17,7 +17,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-8">       
+        <div class="col-md-7">       
             <div class="row">
                 <div class="col-md-10">
                     <h3>Profile - About Me</h3>
@@ -28,7 +28,7 @@
                 <div class="col-md-3">
                     <p><span class="glyphicon glyphicon-user"></span>Name</p>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
                     <p>Quanzheng Long</p>
                 </div>
             </div>
@@ -37,7 +37,7 @@
                 <div class="col-md-3">
                     <p><span class="glyphicon glyphicon-envelope"></span>Department</p>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
                     <p>School of Industrial Engineering</p>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                 <div class="col-md-3">
                     <p><span class="glyphicon glyphicon-pencil"></span>Education</p>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
                     <p>BS of Computer Science,Zhejiang University</p>
                 </div>
             </div>
@@ -55,7 +55,7 @@
                 <div class="col-md-3">
                     <p><span class="glyphicon glyphicon-film"></span>Work Experience</p>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
                     <p>Senior Software R&D Engineer, Baidu, Bejing</p>
                 </div>
             </div>
@@ -64,7 +64,7 @@
                 <div class="col-md-3">
                     <p><span class="glyphicon glyphicon-leaf"></span>Skill Set</p>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
                     <p>Database(GIS) System,Message Queue System,Operating System</p>
                 </div>
             </div>
@@ -73,7 +73,7 @@
                 <div class="col-md-3">
                     <p><span class="glyphicon glyphicon-star"></span>Personality</p>
                 </div>
-                <div class="col-md-5">
+                <div class="col-md-4">
                     <p>Strongly self-driven, easygoing</p>
                 </div>
             </div>
